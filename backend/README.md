@@ -8,7 +8,7 @@
    ```
 2. **Install `uv` (Fast Python package installer):**
    ```bash
-   curl -LsSf https://astral.sh/uv/install.sh | sh
+   pip install uv
    ```
 3. **Create and activate a virtual environment:**
    ```bash

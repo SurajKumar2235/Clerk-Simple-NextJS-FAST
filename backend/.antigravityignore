@@ -1,0 +1,11 @@
+.env
+.venv
+__pycache__
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.env.local
+.env.example
+.gitignore
